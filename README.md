@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on projects related to Application of AI in SLAM algorithm Optimization<br>👯 I’m looking to collaborate on projects or research papers related to AI and Linear Algebra<br>🌱 I’m currently learning Deep Learning and Reinforcement Learning<br>Fun fact: I love doing maths (even when i sleep)
+🔭 I’m currently working on projects related to Application of AI in SLAM algorithm Optimization<br>👯 I’m looking to collaborate on projects or research papers related to AI and Linear Algebra<br>🌱 I’m currently learning Deep Learning and Reinforcement Learning<br>Fun fact: I love sleeping
 
 
 ## 🌐 Socials:
