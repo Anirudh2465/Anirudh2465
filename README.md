@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com/?lines=AI%2FML+Engineer+%7C+Backend+Developer;Building+scalable+distributed+systems;Researching+Explainable+AI&font=Fira%20Code&center=true&width=500&height=40&color=00C6FF&vCenter=true&size=20&pause=2000" alt="Typing SVG" />
 
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="380">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudh-s-varrier-23902530a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anirudhsvarrier@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Anirudh2465)
@@ -54,18 +56,16 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Anirudh2465&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Anirudh2465&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Anirudh2465&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anirudh2465&theme=tokyo-night&hide_border=true&count_private=true" width="97%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anirudh2465&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Anirudh2465/Anirudh2465/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="450">
 
 </div>
 
